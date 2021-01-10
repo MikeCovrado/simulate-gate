@@ -1,4 +1,5 @@
-NAME=CELL_NAME
+#NAME=CELL_NAME
+NAME=sky130_fd_sc_hd__mux2_1
 
 all: sim
 
